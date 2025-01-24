@@ -1,0 +1,23 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "its a nodejs tutorial by prince",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vivek",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.21.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.9.3",
+    "nodemon": "^3.1.9",
+    "parser": "^0.1.4",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.3"
+  }
+}
